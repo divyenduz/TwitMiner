@@ -1,0 +1,13 @@
+Make sure that the folder has sufficient writing permissions in which the code is kept
+
+Run the file from terminal as
+    php training.php
+
+On succesful training it echoes end of training and created 2 files sports.txt and politics.txt
+
+Run the test algorithm as
+    php index.php > output.txt
+    
+Check output.txt for answer
+
+NOTE: - On windows and linux the output .txt may have 1 extra line with a space in the very end remove it before validation as it may give formatting error. On mac it works fine. (I guess)
